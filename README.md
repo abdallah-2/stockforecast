@@ -1,9 +1,4 @@
-Stock Market Analysis & Prediction Web Application
 A web-based application that provides real-time stock market analysis and forecasting using ARIMA (AutoRegressive Integrated Moving Average) modeling. Users can fetch historical stock data for any ticker symbol and view predicted future values based on historical trends.
-Show Image
-Show Image
-Show Image
-Features
 
 Real-Time Stock Data: Fetch current and historical stock data using the Yahoo Finance API
 Interactive Date Selection: Choose custom date ranges for analysis
